@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @louisKwezi
-- 👀 I’m interested in ...robotics
-- 🌱 I’m currently learning ...arduino and ethical hacking
-- 💞️ I’m looking to collaborate on ...pentesting
+- 👀 I’m interested in ...embedded systems and web apps
+- 🌱 I’m currently learning ...Go
+- 💞️ I’m looking to collaborate on ...web design jobs
 - 📫 How to reach me ...kwezi.louishg@gmail.com
 
 <!---
