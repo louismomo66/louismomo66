@@ -1,6 +1,5 @@
 -Hi there 👋 
-I'm an embedded systems engineer and a beginner backend software engineer
-Based in Kampala,Uganda
+IoT and embedded systems engineer. Firmware deployed on 9,600+ devices across 6 countries. Building production Go backends, ESP32 systems, and PCB designs. Based in Kampala, Uganda.
 
 - 👀 I’m interested in ...embedded systems and web apps
 - 🌱 I’m currently learning ...Go
