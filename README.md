@@ -1,12 +1,3 @@
--Hi there 👋 
-IoT and embedded systems engineer. Firmware deployed on 9,600+ devices across 6 countries. Building production Go backends, ESP32 systems, and PCB designs. Based in Kampala, Uganda.
+# Hi, I'm Louis 👋
 
-- 👀 I’m interested in ...embedded systems and web apps
-- 🌱 I’m currently learning ...Go
-- 💞️ Ping me about embedded systems and golang backend projects
-- 📫 How to reach me ...kwezi.louishg@gmail.com,https://www.linkedin.com/in/kwezi-louis-02a7681a1/
-
-<!---
-louismomo66/louismomo66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an IoT software engineer in Kampala, Uganda. I'm Technical Lead at Field Eyes, where I build Go and PostgreSQL backends and React and Next.js dashboards for connected devices, and Firmware Engineer at Innovex, where my firmware runs on 9,600+ deployed smart meters across 6 countries. Reach me at [kwezi.louishg@gmail.com](mailto:kwezi.louishg@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kwezi-louis-02a7681a1/).
